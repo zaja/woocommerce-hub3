@@ -1,11 +1,11 @@
 <?php
 /*
 * Plugin Name: HUB3 2D Barcode
-* Plugin URI:  http://7dana.com
+* Plugin URI:  https://svejedobro.hr
 * Description: Create HUB3 - 2D barcode on Order Details page, regarding specification of Croatian Banking Association
 * Version:     1.0
 * Author:      Goran Zajec
-* Author URI:  http://7dana.hr
+* Author URI:  https://svejedobro.hr
 * Domain Path: /languages/
 * Text Domain: hub3-barcode
 * License:     GPLv2
